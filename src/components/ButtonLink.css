@@ -1,0 +1,45 @@
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  margin: 12px 0;
+  border-radius: 14px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  transition: 0.3s;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn:hover {
+  transform: scale(1.03);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+}
+
+.saiba {
+  background: linear-gradient(90deg, #2563eb, #1e3a8a);
+}
+
+.ml {
+  background: linear-gradient(90deg, #facc15, #ca8a04);
+  color: #000;
+}
+
+.hotmart {
+  background: linear-gradient(90deg, #f97316, #ea580c);
+}
+
+.insta {
+  background: linear-gradient(90deg, #ec4899, #7c3aed);
+}
+
+.face {
+  background: linear-gradient(90deg, #1877f2, #1e40af);
+}
+
+.yt {
+  background: linear-gradient(90deg, #ef4444, #991b1b);
+}
